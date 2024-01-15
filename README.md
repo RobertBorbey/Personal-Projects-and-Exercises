@@ -1,4 +1,4 @@
-Buna! In aceasta sectiune voi adauga proiecte personale si exercitii. Sunteti liberi sa va trageti un ochi!
+Buna! In aceasta sectiune voi adauga proiecte personale si exercitii. Sunteti liberi sa trageti un ochi!
 
 ---
 
