@@ -1,4 +1,4 @@
-# Mini-Proiect OOP : Reciclare
+# # Mini-Proiect OOP : Reciclare
 
 # 1 - Mostenire
 class Reciclare:
